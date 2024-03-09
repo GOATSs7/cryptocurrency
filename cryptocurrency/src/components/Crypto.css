@@ -1,0 +1,60 @@
+.container {
+  margin: 20px auto;
+  padding: 10px;
+  width: 90%;
+  font-family: Arial, sans-serif;
+}
+img {
+  width: 40px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 50%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #000000;
+  color: #fff;
+}
+
+thead td {
+  padding: 10px;
+  font-weight: bold;
+  text-align: left;
+}
+
+tr:nth-child(even) {
+  background-color: #c0aeae;
+}
+
+td {
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover {
+  color: #000;
+}
+
+.rank {
+  font-weight: bold;
+}
